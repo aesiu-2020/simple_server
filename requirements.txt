@@ -1,0 +1,7 @@
+Flask
+SQLAlchemy
+psycopg2
+alembic
+python-dateutil
+pytest
+flask_testing
