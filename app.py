@@ -13,4 +13,4 @@ app = Flask(__name__)
 app.register_blueprint(person_blueprint)
 
 if __name__ == "__main__":
-  app.run()
+    app.run()
